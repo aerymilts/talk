@@ -1,6 +1,6 @@
 # Reproducible science with Docker workshop
 
-A hands-on talk for getting started with [dockerised Jupyter notebooks](https://jupyter-docker-stacks.readthedocs.io/en/latest/). \[[Slides](https://aerymilts.github.io/talks/reproducible-science)\]
+A hands-on talk for getting started with [dockerised Jupyter notebooks](https://jupyter-docker-stacks.readthedocs.io/en/latest/). \[[Slides](https://aerymilts.github.io/talk/reproducible-science)\]
 
 If you want to be involved in the hands-on portion of the talk, ensure that you have `git` and `docker` installed. 
 
