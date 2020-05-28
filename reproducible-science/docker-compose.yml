@@ -1,0 +1,15 @@
+version: "3"
+services:
+  dev-server:
+    build: .
+    stdin_open: true
+    tty: true
+    image: "${IMAGE_NAME}"
+    container_name: "${CONTAINER_NAME}"
+    user: root
+    ports:
+      - 10000:8888
+    env_file: env.list
+    volumes:
+      - ./:/home/jovyan/work
+    command: start-notebook.sh --NotebookApp.token=''
