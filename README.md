@@ -1,2 +1,2 @@
-# talks
+# talk
 Content for talks
