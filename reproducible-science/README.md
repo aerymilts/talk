@@ -19,10 +19,10 @@ $ git --version
 git version 2.24.2
 ```
 
-Docker should return a message as below when running the [hello-world](https://hub.docker.com/_/hello-world/) image.
+Docker should return a message as below when running the [hello-world](https://hub.docker.com/_/hello-world/) image. You may need to [start](https://stackoverflow.com/a/40523608) the Docker GUI application for this to work.
 
 ```bash
-$ docker run hello-world
+$ docker run --rm hello-world
 Unable to find image 'hello-world:latest' locally
 latest: Pulling from library/hello-world
 ca4f61b1923c: Pull complete
