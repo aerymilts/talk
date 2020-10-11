@@ -11,7 +11,7 @@ tl;dr: Dockerise your Jupyter workflow
 
 ![docker](docker.png =100x)
 
-<small>By [Kenneth Ho](https://aerymilts.github.io) [[Repo](https://github.com/aerymilts/talks/tree/master/reproducible-science) </small>]
+<small>By [Kenneth Ho](https://aerymilts.github.io) [[Repo](https://github.com/aerymilts/talks/tree/master/reproducible-science)]</small>
 
 ---
 
